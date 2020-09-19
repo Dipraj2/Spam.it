@@ -1,0 +1,6 @@
+Install python first.
+use the command $pip install -r requirements.txt
+to install the requirements.
+for any help contact me to my facebook
+https://www.facebook.com/artim.jarpid123/
+
